@@ -1,4 +1,0 @@
-vm.c
-paging.c
-bio.c
-fs.c
